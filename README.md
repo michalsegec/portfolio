@@ -2,6 +2,8 @@
 
 My personal portfolio site (in Czech). I'm a junior frontend developer building fast, accessible websites for Czech businesses and agencies.
 
+**Live:** https://michalsegec.vercel.app. PageSpeed (21 Nov 2026): mobile 99/100/100/100, desktop 100/100/100/100.
+
 ## What's inside
 
 - **One motion moment with GSAP:** the hero shows a grey wireframe "template", and a blue line wipes it away to reveal a real finished site. It plays once, respects `prefers-reduced-motion` (via `gsap.matchMedia`), and never stays stuck if JavaScript is off (`<noscript>` rule). See `src/components/Showcase.tsx`.
