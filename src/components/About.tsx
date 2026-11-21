@@ -17,8 +17,8 @@ export default function About() {
             existujících webů nebo menší weby od začátku.
           </p>
           <p className="mt-4 text-lg leading-relaxed text-ink-soft">
-            AI používám jako pomocníka, podobně jako dokumentaci. Každý řádek kódu, který odevzdám,
-            umím vysvětlit a upravit.
+            Weby stavím s pomocí AI a každý výsledek kontroluji: rychlost v PageSpeed, přístupnost
+            a zobrazení na mobilu i na počítači.
           </p>
         </div>
 
